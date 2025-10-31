@@ -8,4 +8,4 @@
 - [Notebook for Day 1: Basic Python & Problem Solving](Learning/day_1.ipynb)
 
 ### **Day 2**
-- [Notebook for Day 2](Learning\day_2.ipynb) 
+- [Notebook for Day 2](Learning/day_2.ipynb) 
